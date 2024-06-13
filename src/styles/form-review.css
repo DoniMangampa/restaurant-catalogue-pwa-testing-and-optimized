@@ -1,0 +1,50 @@
+/* Style untuk form review */
+.form-review {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .form-review h4 {
+    margin-bottom: 20px;
+    color: #303030;
+  }
+  
+  .input-here {
+    margin-bottom: 18px;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+    color: #303030;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #b4b3b3;
+    border-radius: 5px;
+  }
+  
+  textarea.form-control {
+    height: 150px;
+  }
+  
+  .btn {
+    padding: 12px 24px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: green;
+  }
+  
