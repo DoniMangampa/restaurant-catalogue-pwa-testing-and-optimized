@@ -23,6 +23,8 @@ class FavoriteRestaurantView {
           margin-bottom: 20px;
           border: 1px solid #ccc;
           border-radius: 5px;
+          min-width: 44px;
+          min-height: 44px;
         }
         
         .restaurants {
